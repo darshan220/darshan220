@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: <br>      React and Next JS Projects <br>👯 I’m looking to collaborate on<br>      Front End Projects<br>🤝 I’m looking for help with<br>      Open Source contribution and New opportunity to learn<br>🌱 I’m currently learning<br>      Node js, MongoDB, Express, and Docker<br>💬 Ask me about<br>      JavaScript, TypeScript, React, Nextjs
+🔭 I’m currently working on: <br>      React and Next JS Projects <br><br>👯 I’m looking to collaborate on<br>      Front End Projects<br><br>🤝 I’m looking for help with<br>      Open Source contribution and New opportunity to learn<br><br>🌱 I’m currently learning<br>      Node js, MongoDB, Express, and Docker<br><br>💬 Ask me about<br>      JavaScript, TypeScript, React, Nextjs
 
 
 ## 🌐 Socials:
